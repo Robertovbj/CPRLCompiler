@@ -13,4 +13,4 @@ It was developed:
 - Code Generation and optimization;
 - Subprograms and Array support;
 
-You can also find a Sintax Highlighting for Notepad++ [here](Notepad++ CPRL Sinax Highlighting.xml).
+You can also find a Sintax Highlighting for Notepad++ [here](Notepadpp_CPRL_Sinax_Highlighting.xml).
